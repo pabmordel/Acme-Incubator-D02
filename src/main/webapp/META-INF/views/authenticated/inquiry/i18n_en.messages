@@ -1,0 +1,12 @@
+authenticated.inquiry.list.label.title = Title
+authenticated.inquiry.list.label.creationdate = Creation date
+
+authenticated.inquiry.form.label.title = Title:
+authenticated.inquiry.form.label.creationdate = Creation date:
+authenticated.inquiry.form.label.deadline = Deadline:
+authenticated.inquiry.form.label.description = Description:
+authenticated.inquiry.form.label.intervalmin = Minimum money:
+authenticated.inquiry.form.label.intervalmax = Maximum money:
+authenticated.inquiry.form.label.email = Email:
+
+authenticated.inquiry.form.button.return = Return
